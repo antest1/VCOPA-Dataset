@@ -1,381 +1,381 @@
-id	answer
-1	1
-2	1
-3	2
-12	2
-13	1
-14	1
-36	2
-39	2
-45	2
-46	2
-49	2
-51	1
-53	2
-54	2
-57	1
-62	1
-65	2
-71	1
-78	2
-81	2
-86	1
-87	2
-88	1
-94	1
-95	2
-99	2
-100	2
-108	1
-125	2
-131	2
-140	2
-147	2
-154	2
-156	2
-161	2
-162	2
-163	2
-168	2
-174	1
-176	1
-179	2
-183	2
-185	2
-186	1
-187	2
-188	2
-194	1
-198	2
-201	1
-202	1
-203	2
-204	2
-205	1
-206	2
-207	1
-208	2
-209	1
-213	2
-214	1
-215	1
-216	2
-217	1
-218	2
-221	2
-222	2
-223	1
-225	1
-227	2
-228	1
-229	2
-231	1
-233	2
-234	1
-235	1
-237	2
-240	1
-241	1
-242	1
-243	2
-245	1
-246	1
-247	1
-248	2
-249	2
-250	1
-251	2
-252	1
-253	1
-254	2
-255	1
-256	2
-259	2
-261	1
-266	2
-268	2
-269	2
-270	2
-271	1
-272	2
-273	1
-274	1
-276	2
-277	1
-278	2
-281	1
-288	2
-294	1
-295	2
-297	2
-299	1
-305	1
-306	1
-307	1
-308	2
-309	1
-310	2
-314	2
-317	1
-318	2
-319	2
-320	2
-323	1
-324	1
-326	1
-327	2
-328	2
-329	2
-330	2
-332	1
-335	2
-336	1
-337	1
-342	1
-350	2
-353	2
-355	1
-358	1
-360	1
-369	2
-370	2
-375	2
-376	2
-384	1
-386	1
-387	2
-391	1
-392	1
-393	1
-400	2
-405	2
-408	1
-409	1
-410	1
-411	1
-412	2
-415	1
-423	1
-426	2
-430	2
-433	2
-435	1
-438	2
-440	1
-441	1
-450	1
-454	1
-455	1
-459	2
-461	2
-463	1
-464	2
-468	2
-473	2
-474	2
-478	1
-479	2
-482	1
-485	2
-488	1
-490	1
-491	1
-492	2
-493	2
-494	1
-495	1
-496	2
-497	2
-501	1
-505	2
-506	2
-509	1
-511	1
-514	1
-523	1
-524	1
-527	1
-538	1
-540	1
-541	1
-542	2
-543	1
-548	2
-549	2
-550	1
-555	2
-556	2
-558	2
-559	1
-560	2
-565	2
-568	1
-570	2
-571	1
-573	2
-578	2
-579	1
-581	2
-585	2
-595	2
-597	2
-601	1
-603	2
-604	2
-605	1
-606	2
-607	2
-608	1
-611	1
-612	2
-613	1
-614	1
-615	2
-616	1
-617	1
-618	1
-620	2
-621	2
-622	1
-623	1
-624	1
-625	2
-626	2
-627	2
-628	2
-629	2
-630	1
-631	1
-632	1
-633	1
-634	1
-635	1
-636	2
-637	2
-638	1
-639	2
-640	2
-641	2
-642	1
-643	2
-645	1
-646	2
-647	2
-648	1
-649	2
-650	1
-652	2
-654	2
-655	2
-656	2
-658	1
-661	2
-664	2
-666	1
-668	1
-669	2
-670	1
-671	2
-672	2
-673	1
-674	1
-675	2
-676	1
-677	1
-679	2
-682	2
-683	2
-686	1
-695	1
-699	2
-710	1
-711	1
-714	1
-715	1
-723	1
-730	2
-734	1
-735	1
-740	1
-741	1
-743	1
-750	1
-751	2
-758	1
-763	1
-767	2
-781	1
-791	1
-795	2
-806	1
-811	2
-812	1
-814	2
-816	1
-818	2
-819	2
-820	2
-821	1
-824	1
-825	1
-826	1
-827	2
-828	2
-829	2
-831	2
-833	2
-834	2
-836	1
-838	1
-839	2
-841	1
-844	1
-848	2
-849	1
-850	2
-852	2
-855	1
-860	2
-866	2
-874	2
-875	2
-876	2
-877	2
-878	2
-884	1
-886	2
-888	1
-891	1
-892	1
-894	1
-895	2
-896	2
-900	2
-903	1
-905	2
-910	1
-913	2
-916	1
-917	2
-918	1
-921	1
-923	1
-943	2
-944	1
-948	1
-953	2
-956	2
-958	1
-960	1
-964	2
-966	1
-969	1
-970	1
-972	1
-978	1
-980	1
-983	1
-984	2
-986	1
-989	1
-991	1
+id	asks-for	most-plausible-alternative
+1	cause	1
+2	cause	1
+3	cause	2
+12	effect	2
+13	effect	1
+14	effect	1
+36	cause	1
+39	effect	2
+45	cause	2
+46	cause	2
+49	cause	2
+51	cause	1
+53	effect	2
+54	effect	2
+57	effect	1
+62	cause	1
+65	cause	2
+71	effect	1
+78	effect	2
+81	effect	2
+86	effect	1
+87	cause	2
+88	cause	1
+94	cause	1
+95	effect	2
+99	cause	2
+100	cause	2
+108	cause	1
+125	cause	2
+131	effect	1
+140	effect	2
+147	cause	2
+154	effect	2
+156	cause	2
+161	cause	2
+162	effect	2
+163	effect	2
+168	cause	1
+174	cause	1
+176	cause	1
+179	cause	2
+183	effect	2
+185	effect	2
+186	effect	1
+187	cause	2
+188	effect	2
+194	cause	1
+198	cause	2
+201	cause	1
+202	cause	1
+203	effect	2
+204	cause	2
+205	effect	1
+206	cause	2
+207	cause	1
+208	effect	2
+209	cause	1
+213	effect	2
+214	effect	1
+215	effect	1
+216	cause	2
+217	effect	1
+218	effect	2
+221	effect	2
+222	effect	2
+223	effect	1
+225	effect	1
+227	effect	2
+228	effect	1
+229	effect	2
+231	effect	1
+233	effect	2
+234	effect	1
+235	cause	1
+237	cause	2
+240	cause	1
+241	cause	1
+242	effect	1
+243	cause	1
+245	effect	1
+246	effect	1
+247	effect	1
+248	effect	2
+249	cause	2
+250	cause	1
+251	cause	2
+252	effect	1
+253	effect	1
+254	effect	2
+255	effect	1
+256	cause	2
+259	cause	2
+261	effect	1
+266	effect	2
+268	effect	2
+269	effect	2
+270	cause	2
+271	cause	1
+272	effect	2
+273	cause	1
+274	effect	1
+276	effect	1
+277	effect	1
+278	cause	2
+281	effect	1
+288	cause	2
+294	cause	1
+295	effect	2
+297	cause	1
+299	effect	1
+305	cause	1
+306	cause	1
+307	effect	1
+308	effect	2
+309	cause	1
+310	effect	2
+314	cause	2
+317	cause	1
+318	effect	2
+319	effect	2
+320	cause	2
+323	cause	1
+324	effect	1
+326	effect	1
+327	cause	2
+328	effect	2
+329	effect	2
+330	cause	2
+332	effect	1
+335	effect	1
+336	cause	1
+337	effect	1
+342	cause	1
+350	cause	2
+353	cause	2
+355	effect	1
+358	effect	1
+360	cause	1
+369	cause	2
+370	effect	2
+375	cause	2
+376	cause	2
+384	cause	1
+386	cause	1
+387	cause	2
+391	cause	1
+392	effect	1
+393	cause	1
+400	cause	2
+405	cause	2
+408	cause	1
+409	cause	1
+410	effect	1
+411	cause	1
+412	cause	2
+415	cause	1
+423	effect	1
+426	cause	2
+430	cause	2
+433	cause	1
+435	effect	1
+438	cause	2
+440	effect	1
+441	effect	1
+450	effect	1
+454	cause	1
+455	cause	1
+459	cause	2
+461	cause	2
+463	cause	1
+464	cause	2
+468	cause	2
+473	effect	2
+474	effect	2
+478	effect	1
+479	effect	2
+482	cause	1
+485	cause	2
+488	effect	1
+490	effect	1
+491	effect	1
+492	effect	2
+493	cause	2
+494	effect	1
+495	effect	1
+496	cause	2
+497	cause	2
+501	cause	1
+505	cause	1
+506	cause	2
+509	effect	1
+511	cause	1
+514	effect	1
+523	effect	1
+524	effect	1
+527	cause	1
+538	effect	1
+540	effect	1
+541	effect	1
+542	effect	2
+543	cause	1
+548	effect	2
+549	cause	2
+550	effect	1
+555	effect	2
+556	effect	2
+558	effect	2
+559	cause	1
+560	effect	2
+565	cause	2
+568	cause	1
+570	cause	2
+571	cause	1
+573	cause	2
+578	effect	2
+579	effect	1
+581	effect	2
+585	cause	2
+595	cause	2
+597	cause	2
+601	effect	1
+603	effect	2
+604	cause	2
+605	cause	1
+606	cause	1
+607	cause	2
+608	cause	1
+611	effect	1
+612	cause	1
+613	cause	1
+614	cause	1
+615	effect	2
+616	cause	1
+617	cause	1
+618	effect	1
+620	effect	2
+621	cause	2
+622	cause	1
+623	effect	1
+624	effect	1
+625	cause	2
+626	effect	2
+627	cause	2
+628	effect	2
+629	cause	2
+630	cause	1
+631	effect	1
+632	cause	1
+633	cause	1
+634	effect	1
+635	effect	1
+636	cause	2
+637	cause	1
+638	effect	1
+639	effect	2
+640	cause	2
+641	cause	2
+642	cause	1
+643	effect	2
+645	effect	1
+646	cause	2
+647	cause	2
+648	cause	1
+649	effect	2
+650	cause	1
+652	effect	2
+654	cause	2
+655	effect	2
+656	cause	2
+658	effect	1
+661	effect	2
+664	cause	1
+666	cause	1
+668	cause	1
+669	cause	2
+670	effect	1
+671	cause	2
+672	cause	2
+673	cause	1
+674	effect	1
+675	effect	2
+676	cause	1
+677	cause	1
+679	cause	2
+682	cause	2
+683	effect	2
+686	cause	1
+695	cause	1
+699	cause	2
+710	effect	1
+711	effect	1
+714	cause	1
+715	effect	1
+723	effect	1
+730	effect	2
+734	effect	1
+735	effect	1
+740	effect	1
+741	effect	1
+743	cause	1
+750	cause	1
+751	cause	2
+758	effect	1
+763	effect	1
+767	effect	2
+781	cause	1
+791	cause	1
+795	effect	2
+806	effect	1
+811	effect	2
+812	effect	1
+814	effect	2
+816	effect	1
+818	cause	2
+819	cause	2
+820	effect	2
+821	effect	1
+824	effect	1
+825	effect	1
+826	cause	1
+827	effect	2
+828	cause	2
+829	effect	2
+831	cause	2
+833	cause	2
+834	cause	2
+836	cause	1
+838	effect	1
+839	effect	2
+841	cause	1
+844	effect	1
+848	cause	2
+849	cause	1
+850	effect	2
+852	cause	2
+855	cause	1
+860	effect	1
+866	effect	1
+874	effect	2
+875	cause	2
+876	effect	2
+877	cause	2
+878	effect	2
+884	effect	1
+886	effect	1
+888	cause	1
+891	effect	1
+892	effect	1
+894	cause	1
+895	cause	2
+896	cause	2
+900	effect	2
+903	effect	1
+905	effect	2
+910	effect	1
+913	cause	2
+916	cause	1
+917	cause	2
+918	effect	1
+921	effect	1
+923	cause	1
+943	effect	2
+944	cause	1
+948	effect	1
+953	effect	2
+956	effect	2
+958	effect	1
+960	cause	1
+964	effect	2
+966	cause	1
+969	cause	1
+970	cause	1
+972	effect	1
+978	effect	1
+980	effect	1
+983	effect	1
+984	cause	2
+986	effect	1
+989	effect	1
+991	effect	1
