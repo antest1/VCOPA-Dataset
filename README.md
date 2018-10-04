@@ -11,9 +11,9 @@ You can download these files at [Here](https://1drv.ms/f/s!Ag7jneFUVT3Ai11BSi7rF
 [`vcopa-answer.tsv`](https://raw.githubusercontent.com/antest1/VCOPA-Dataset/master/data/vcopa-answer.tsv) contains answer for all images.  
 
 ## Contact Information
-If there is a problem or concern about the dataset file, please contact to below e-mail.
-jinyeo [AT] postech.edu (Jinyoung Yeo)
-alias_n [AT] yonsei.ac.kr (Gyeongbok Lee)
+If there is a problem or concern about the dataset file, please contact to below e-mail.  
+- jinyeo [AT] postech.edu (Jinyoung Yeo)  
+- alias_n [AT] yonsei.ac.kr (Gyeongbok Lee)  
 
 ## Reference
 If you use this dataset, please use below information for citation.
