@@ -3,7 +3,7 @@
 by Jinyoung Yeo, Gyeongbok Lee, Gengyu Wang, Seungtaek Choi, Hyunsouk Cho, Reinald Kim Amplayo and Seung-won Hwang, LREC 2018 [\[Paper\]](http://www.lrec-conf.org/proceedings/lrec2018/pdf/560.pdf)
 
 ## File Description ##  
-Dev set and Test set are compressed in `vcopa-dev.tgz` and `vcopa-test.tgz`.  
+Dev set and Test set are compressed in `vcopa-image-dev.tgz` and `vcopa-image-test.tgz`.  
 Each set contains 570 JPG images for 190 questions.
 You can download these files at [Here](https://1drv.ms/f/s!Ag7jneFUVT3Ai11BSi7rFfkg8sDA).
 
