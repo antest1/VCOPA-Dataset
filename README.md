@@ -5,7 +5,7 @@ by Jinyoung Yeo, Gyeongbok Lee, Gengyu Wang, Seungtaek Choi, Hyunsouk Cho, Reina
 ## File Description ##  
 Dev set and Test set are compressed in `vcopa-image-dev.tgz` and `vcopa-image-test.tgz`.  
 Each set contains 570 JPG images for 190 questions.
-You can download these files at [Here](https://1drv.ms/f/s!Ag7jneFUVT3Ai11BSi7rFfkg8sDA).
+You can download these files at [Here](https://drive.google.com/drive/folders/1mf2flEFrJ_MgCGvF3ttAlRd33o5-vC9K?usp=sharing).
 
 [`vcopa-annotation-manual.tsv`](https://raw.githubusercontent.com/antest1/VCOPA-Dataset/master/data/vcopa-annotation-manual.tsv) contains human-annotated description of all images.  
 [`vcopa-answer.tsv`](https://raw.githubusercontent.com/antest1/VCOPA-Dataset/master/data/vcopa-answer.tsv) contains answer for all images.  
